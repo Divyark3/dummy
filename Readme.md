@@ -1,0 +1,1 @@
+This repository is to demonstrate my understanding of Python development and my proficiency using Git and GitHub for version control and collaboration.
